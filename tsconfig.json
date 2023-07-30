@@ -1,0 +1,12 @@
+{
+	"compilerOptions": {
+        "outDir": "build",
+        "noImplicitAny": true,
+        "module": "NodeNext",
+        "target": "es2022",
+        "jsx": "react",
+        "allowJs": true,
+        "allowSyntheticDefaultImports": true,
+        "moduleResolution": "node"
+    }
+}
